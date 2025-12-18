@@ -20,7 +20,8 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=OpenJDK&logoColor=FFA518)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=OpenJDK&logoColor=FFA518)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)&nbsp;
@@ -52,6 +53,25 @@
 ![Snyk](https://img.shields.io/badge/-Snyk-05122A?style=flat&logo=snyk&logoColor=white)&nbsp;
 
 ### 📁 &nbsp;Featured Projects
+
+#### 🎓 **SOPHIA - AI-Powered Educational Platform** (Microservices Architecture)
+*Cloud-native learning management system with AI content generation and intelligent tutoring*
+- **Infrastructure & Cloud:** ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;![ECS](https://img.shields.io/badge/-ECS-05122A?style=flat&logo=amazon-ecs)&nbsp;![ECR](https://img.shields.io/badge/-ECR-05122A?style=flat&logo=amazon-aws)&nbsp;![CloudMap](https://img.shields.io/badge/-CloudMap-05122A?style=flat&logo=amazon-aws)&nbsp;![API Gateway](https://img.shields.io/badge/-API%20Gateway-05122A?style=flat&logo=amazon-api-gateway)&nbsp;![Cognito](https://img.shields.io/badge/-Cognito-05122A?style=flat&logo=amazon-aws)&nbsp;![ElastiCache](https://img.shields.io/badge/-ElastiCache-05122A?style=flat&logo=amazon-aws)&nbsp;![NLB](https://img.shields.io/badge/-NLB-05122A?style=flat&logo=amazon-aws)&nbsp;![VPC](https://img.shields.io/badge/-VPC-05122A?style=flat&logo=amazon-aws)&nbsp;![NAT Gateway](https://img.shields.io/badge/-NAT%20Gateway-05122A?style=flat&logo=amazon-aws)
+- **Backend Stack:** ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;![pnpm](https://img.shields.io/badge/-pnpm-05122A?style=flat&logo=pnpm)&nbsp;![Biome](https://img.shields.io/badge/-biome-05122A?style=flat&logo=biome)&nbsp;![Zod](https://img.shields.io/badge/-zod-05122A?style=flat&logo=zod)&nbsp;![Vitest](https://img.shields.io/badge/-vitest-05122A?style=flat&logo=vitest)
+- **Databases:** ![Aurora RDS](https://img.shields.io/badge/-Aurora%20RDS-05122A?style=flat&logo=amazon-rds)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;![Drizzle ORM](https://img.shields.io/badge/-Drizzle-05122A?style=flat&logo=drizzle)
+- **AI & Protocols:** ![Google Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=google)&nbsp;![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;![MCP](https://img.shields.io/badge/-MCP-05122A?style=flat&logo=ai)&nbsp;![Agent Loop](https://img.shields.io/badge/-Agent%20Loop-05122A?style=flat&logo=robot)
+- **DevOps & Quality:** ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions)&nbsp;![SonarCloud](https://img.shields.io/badge/-SonarCloud-05122A?style=flat&logo=sonarcloud)&nbsp;![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=white)
+
+**Key Features:**
+- Microservices architecture with service discovery via AWS CloudMap
+- AI-powered course generation using Agent Loop pattern with function calling
+- Model Context Protocol (MCP) server for AI tool integration
+- Private VPC networking with NLB and NAT Gateway
+- OAuth2 authentication via AWS Cognito
+- Distributed caching with ElastiCache
+- CI/CD pipelines with automated testing and code analysis
+
+[Coordinator](https://github.com/IETI-Group/SOPHIA-Coordinator) | [Course Service](https://github.com/IETI-Group/SOPHIA-CourseService) | [Tutor Chat Service](https://github.com/IETI-Group/SOPHIA-TutorChatService) | [User Service](https://github.com/IETI-Group/SOPHIA-UserService) | [Frontend](https://github.com/IETI-Group/SOPHIA-Front)
 
 #### 🎮 **Bad Ice Cream Game** (Full-Stack)
 *Multiplayer real-time game with WebSocket communication and Redis state management*
@@ -99,8 +119,6 @@
 - **Design & UX:** ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-05122A?style=flat&logo=css3)&nbsp;![CSS Grid](https://img.shields.io/badge/-CSS%20Grid-05122A?style=flat&logo=css3)&nbsp;![Flexbox](https://img.shields.io/badge/-Flexbox-05122A?style=flat&logo=css3)
 
 [Repository](https://github.com/MIGUEL-MOTTA-U/FRONT-END)
-
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
